@@ -36,5 +36,5 @@ Atollic Truestudio
 ## Contributors
 
 - [William Chen / 陳威宇](https://github.com/weiyutp6)
-- [Jamie Tai / 戴經綸]() 
+- [Jamie Tai / 戴經倫]() 
 - [Jimmy Chao / 趙浤銘]()
