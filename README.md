@@ -32,3 +32,9 @@ Atollic Truestudio
 ## Ship model
 
 • Open up Ship_model.3dm in Rhino 7 and export it to a file type that supports your 3d printer(in this project we print in .stl file)
+
+## Contributors
+
+- [William Chen / 陳威宇](https://github.com/weiyutp6)
+- [Jamie Tai / 戴經綸]() 
+- [Jimmy Chao / 趙浤銘]()
